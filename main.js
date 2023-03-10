@@ -4,7 +4,7 @@ function streamVideo()
 
   const video = document.querySelector('#video')
 
-  const options = {video : true};
+  const options = {video : true, audio : true};
 
   
 
